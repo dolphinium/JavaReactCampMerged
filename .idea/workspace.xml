@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dec29c66-c684-42eb-87e5-51737811d725" name="Default Changelist" comment="final version of project.">
-      <change afterPath="$PROJECT_DIR$/day6/assignment2/hrms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/assignment2/hrms.sql" afterDir="false" />
-    </list>
+    <list default="true" id="dec29c66-c684-42eb-87e5-51737811d725" name="Default Changelist" comment="Day 6 assignments added." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +39,7 @@
       <workItem from="1620470830990" duration="4371000" />
       <workItem from="1620496106038" duration="2207000" />
       <workItem from="1620820438093" duration="141000" />
+      <workItem from="1620820632077" duration="362000" />
     </task>
     <task id="LOCAL-00001" summary="removed .idea file.">
       <created>1620471341584</created>
@@ -57,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620473928917</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day 6 assignments added.">
+      <created>1620820839813</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620820839813</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +83,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="removed .idea file." />
     <MESSAGE value="final version of project." />
-    <option name="LAST_COMMIT_MESSAGE" value="final version of project." />
+    <MESSAGE value="Day 6 assignments added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 6 assignments added." />
   </component>
 </project>
