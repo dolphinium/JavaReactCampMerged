@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dec29c66-c684-42eb-87e5-51737811d725" name="Default Changelist" comment="Day 6 assignments added." />
+    <list default="true" id="dec29c66-c684-42eb-87e5-51737811d725" name="Default Changelist" comment="Day 6 assignment 3 added.">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +25,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day6" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -39,7 +42,7 @@
       <workItem from="1620470830990" duration="4371000" />
       <workItem from="1620496106038" duration="2207000" />
       <workItem from="1620820438093" duration="141000" />
-      <workItem from="1620820632077" duration="362000" />
+      <workItem from="1620820632077" duration="670000" />
     </task>
     <task id="LOCAL-00001" summary="removed .idea file.">
       <created>1620471341584</created>
@@ -62,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620820839813</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day 6 assignment 3 added.">
+      <created>1620821115947</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620821115948</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +94,7 @@
     <MESSAGE value="removed .idea file." />
     <MESSAGE value="final version of project." />
     <MESSAGE value="Day 6 assignments added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 6 assignments added." />
+    <MESSAGE value="Day 6 assignment 3 added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 6 assignment 3 added." />
   </component>
 </project>
