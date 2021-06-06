@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dec29c66-c684-42eb-87e5-51737811d725" name="Default Changelist" comment="Day 7-8 assignments are added." />
+    <list default="true" id="dec29c66-c684-42eb-87e5-51737811d725" name="Default Changelist" comment="Day 7-8 assignments are added.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,9 +26,11 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -48,7 +52,7 @@
       <workItem from="1620820438093" duration="141000" />
       <workItem from="1620820632077" duration="670000" />
       <workItem from="1620928714940" duration="229000" />
-      <workItem from="1622393498276" duration="364000" />
+      <workItem from="1622393498276" duration="1102000" />
     </task>
     <task id="LOCAL-00001" summary="removed .idea file.">
       <created>1620471341584</created>
@@ -85,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622393595404</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Day 7-8 assignments are added.">
+      <created>1622393987584</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622393987584</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
